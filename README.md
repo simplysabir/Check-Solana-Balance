@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Check Solana Balance  
+
+Enter your Solana Wallet address and it will tell you How Much Balance does the wallet have and is it executable or not.  
 
 ## Getting Started
 
